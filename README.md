@@ -1,8 +1,9 @@
 # Leaves
-![スクリーンショット 2021-04-07 0 44 04](https://user-images.githubusercontent.com/81544427/113739299-9e05a700-973a-11eb-9fca-df77191689cf.png)
 ```
 PCRに必要なプライマーを設計するツール
-
+```
+![スクリーンショット 2021-04-07 0 44 04](https://user-images.githubusercontent.com/81544427/113739299-9e05a700-973a-11eb-9fca-df77191689cf.png)
+```
 バイオインフォマティクスツール
   Alignment: DNA、タンパク質の配列の類似した領域を特定できるように並べたもの
   Blast: 類似した配列が生物内に存在するかを確かめるツール
